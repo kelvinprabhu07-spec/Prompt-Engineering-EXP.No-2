@@ -21,5 +21,9 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.No-2/blob/main/EX02_Cross_Platform_Prompting_Evaluation%20(1)%20(1).pdf
 
 RESULT:
+
+The experiment was successfully completed by evaluating different prompting techniques (Zero-shot, Few-shot, Chain-of-Thought, and Role-based prompting) across multiple AI platforms for the task of text summarization. The generated summaries were compared based on accuracy, coherence, simplicity, speed, and overall user experience. Among the tested approaches, Role-based and Chain-of-Thought prompting produced the most accurate and coherent summaries, while Zero-shot prompting provided the fastest responses. ChatGPT delivered the best overall performance by generating clear, concise, and student-friendly summaries with high accuracy and a smooth user experience. The study demonstrated that the effectiveness of AI-generated summaries depends significantly on both the prompting technique and the AI platform used.
+
