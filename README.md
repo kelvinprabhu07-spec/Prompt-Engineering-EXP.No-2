@@ -21,6 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+
+
 https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.No-2/blob/main/EX02_Cross_Platform_Prompting_Evaluation%20(1)%20(1).pdf
 
 RESULT:
